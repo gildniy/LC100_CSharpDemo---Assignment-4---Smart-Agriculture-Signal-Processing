@@ -1,0 +1,20 @@
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.AssemblyReference.cache
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.Form1.resources
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.Properties.Resources.resources
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.GenerateResource.cache
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.CoreCompileInputs.cache
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\bin\Debug\LC100_CSharpDemo.exe
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\bin\Debug\LC100_CSharpDemo.pdb
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.CopyComplete
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.exe
+C:\Thorlabs Test\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.pdb
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\bin\Debug\LC100_CSharpDemo.exe
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\bin\Debug\LC100_CSharpDemo.pdb
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.AssemblyReference.cache
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.Form1.resources
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.Properties.Resources.resources
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.GenerateResource.cache
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.CoreCompileInputs.cache
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.csproj.CopyComplete
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.exe
+D:\COURSES AND ASSIGNENTS\SEMESTER 3\SMART AGRICULTURE SIGNAL PROCESSING\ASSIGNMENTS\Assignment 4\바이오신호처리20220505_(Sample Codes)\Lecture4\CSharp\LC100_CSharpDemo\obj\Debug\LC100_CSharpDemo.pdb
